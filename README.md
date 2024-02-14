@@ -2,7 +2,7 @@
 This repository contains all course related topics
 
 
-#Files to download
+# Files to download
 
 Download virtualbox installer & extension pack from below website
 link: https://www.virtualbox.org/wiki/Downloads
@@ -25,7 +25,7 @@ link: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?v
 # NOTE: this software are files not designed by me so please use it with caution
 
 
-#Learning websites
+# Learning websites
 
 For linux practice
 https://overthewire.org/wargames/
